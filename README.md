@@ -17,3 +17,6 @@ Interactive filters for exploring specific rooms or time intervals.
 Clear visual indicators (KPIs, charts, and graphs) to support energy efficiency awareness.
 
 This project demonstrates how data visualization can simplify energy monitoring in residential settings and support efforts to reduce unnecessary electricity consumption.
+
+![energy dashboard 2](https://github.com/user-attachments/assets/ada4d2f2-153b-41a5-a4ed-0bdd8528e392)
+
