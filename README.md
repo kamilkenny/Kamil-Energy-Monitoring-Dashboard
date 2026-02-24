@@ -23,7 +23,8 @@ The structural behaviour of the generation mix was examined through stacked area
 A dual-line visual comparing fossil share and renewable share was constructed to assess structural crossover behaviour. This comparison highlights the relative balance between dispatchable fossil generation and variable renewable output. This comparison directly supports evaluation of national transition goals by illustrating how renewable penetration is reshaping the structural composition of the generation mix.
 # Carbon Intensity Behaviour and Correlation
 Carbon intensity trends were analysed using temporal line charts and correlation-based scatter plots. The trend visual reveals seasonal variation, with winter periods displaying elevated carbon intensity consistent with increased reliance on fossil-based generation during high-demand conditions.
-![Uploading NESO (3)_page-0002.jpg…]()
+![NESO (3)_page-0002](https://github.com/user-attachments/assets/e41e0645-30fd-4a58-8cd9-885b28585b90)
+
 # Net Demand and System Stress Indicators
 Net demand was calculated as total generation minus wind and solar output, representing the demand that must be met by dispatchable sources such as gas, nuclear and imports. This derived metric provides insight into system stress and flexibility requirements.
 # Zero Carbon versus Low Carbon Decomposition
