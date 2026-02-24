@@ -1,9 +1,6 @@
 
 # UK ELECTRICITY GENERATION & DECARBONISATION POWER BI ANALYTIC DASHBOARD (2020-2025 DATASET)
-![NESO (2)_page-0001](https://github.com/user-attachments/assets/286d39da-b65d-4c39-b23e-0f387e281e81)
-
-
-
+![NESO (3)_page-0001](https://github.com/user-attachments/assets/bec2aae5-00d5-4432-84a9-0b8218ec1e38)
 An analytical dashboard developed in Microsoft Power BI to explore Great Britain’s electricity generation mix over the period 2020–2025 using half-hourly system data. The objective of the study was to construct an interactive visual framework capable of examining structural fuel composition, renewable penetration levels, carbon intensity behaviour, and system stress indicators at a national scale. The dashboard was designed not merely as a visualisation exercise, but as a structured analytical tool aligned with large-scale energy system objectives such as decarbonisation monitoring, operational flexibility assessment, and generation planning insight.
 
 The design sought to determine how the GB electricity mix is structured during the study period, whether renewable generation has materially displaced fossil fuels, how fuel composition influences carbon intensity, and when the system experiences elevated stress or emissions.
@@ -26,8 +23,7 @@ The structural behaviour of the generation mix was examined through stacked area
 A dual-line visual comparing fossil share and renewable share was constructed to assess structural crossover behaviour. This comparison highlights the relative balance between dispatchable fossil generation and variable renewable output. This comparison directly supports evaluation of national transition goals by illustrating how renewable penetration is reshaping the structural composition of the generation mix.
 # Carbon Intensity Behaviour and Correlation
 Carbon intensity trends were analysed using temporal line charts and correlation-based scatter plots. The trend visual reveals seasonal variation, with winter periods displaying elevated carbon intensity consistent with increased reliance on fossil-based generation during high-demand conditions.
-
-![NESO (2)_page-0002](https://github.com/user-attachments/assets/1d394515-d9d0-48f9-9309-b2e30771d192)
+![NESO (3)_page-0002](https://github.com/user-attachments/assets/6e732cd5-dbc3-426c-98c0-f241580d784f)
 # Net Demand and System Stress Indicators
 Net demand was calculated as total generation minus wind and solar output, representing the demand that must be met by dispatchable sources such as gas, nuclear and imports. This derived metric provides insight into system stress and flexibility requirements.
 # Zero Carbon versus Low Carbon Decomposition
