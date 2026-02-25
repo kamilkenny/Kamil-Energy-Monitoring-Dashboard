@@ -10,6 +10,7 @@ The design sought to determine how the GB electricity mix is structured during t
 The dataset consisted of half-hourly generation records across major fuel sources including gas, coal, nuclear, wind, solar, hydro, biomass and imports. Aggregated system metrics such as total generation, fossil contribution, renewable contribution, zero-carbon generation, low-carbon generation and carbon intensity were also included. The availability of both absolute generation values in megawatts and percentage shares enabled analysis of structural composition independent of demand fluctuations.
 
 The data was transformed within Power Query to ensure appropriate data types, temporal segmentation and structural reorganisation for visual modelling. DAX measures were developed to support derived metrics such as net demand and carbon composition breakdown.
+<img width="1466" height="830" alt="2024 B" src="https://github.com/user-attachments/assets/43f5ac49-0e2a-4bd2-ac2c-98a1d83d7c4f" />
 
 
 The dashboard begins with a high-level KPI panel presenting total generation, average carbon intensity, average renewable share, peak demand, and record generation values for wind and solar. This section provides an immediate executive snapshot of system performance during the study period. It allows rapid evaluation of overall demand magnitude, renewable penetration levels and emission intensity trends.
@@ -23,6 +24,7 @@ The structural behaviour of the generation mix was examined through stacked area
 A dual-line visual comparing fossil share and renewable share was constructed to assess structural crossover behaviour. This comparison highlights the relative balance between dispatchable fossil generation and variable renewable output. This comparison directly supports evaluation of national transition goals by illustrating how renewable penetration is reshaping the structural composition of the generation mix.
 # Carbon Intensity Behaviour and Correlation
 Carbon intensity trends were analysed using temporal line charts and correlation-based scatter plots. The trend visual reveals seasonal variation, with winter periods displaying elevated carbon intensity consistent with increased reliance on fossil-based generation during high-demand conditions.
+
 ![NESO (3)_page-0002](https://github.com/user-attachments/assets/e41e0645-30fd-4a58-8cd9-885b28585b90)
 
 # Net Demand and System Stress Indicators
