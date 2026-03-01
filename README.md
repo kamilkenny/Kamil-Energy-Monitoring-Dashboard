@@ -21,6 +21,8 @@ The dashboard begins with a high-level KPI panel presenting total generation, av
 # Structural Fuel Mix Analysis 
 The structural behaviour of the generation mix was examined through stacked area charts representing both absolute megawatt contribution and percentage share composition.
 # Fossil versus Renewable Transition
+![NESO (4)_page-0004](https://github.com/user-attachments/assets/2fc9d2c9-c13c-45f1-b43c-6338a829eba0)
+
 A dual-line visual comparing fossil share and renewable share was constructed to assess structural crossover behaviour. This comparison highlights the relative balance between dispatchable fossil generation and variable renewable output. This comparison directly supports evaluation of national transition goals by illustrating how renewable penetration is reshaping the structural composition of the generation mix.
 # Carbon Intensity Behaviour and Correlation
 Carbon intensity trends were analysed using temporal line charts and correlation-based scatter plots. The trend visual reveals seasonal variation, with winter periods displaying elevated carbon intensity consistent with increased reliance on fossil-based generation during high-demand conditions.
