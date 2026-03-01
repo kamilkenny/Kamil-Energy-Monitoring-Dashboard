@@ -1,6 +1,10 @@
 
 # UK ELECTRICITY GENERATION & DECARBONISATION POWER BI ANALYTIC DASHBOARD (2020-2025 GENERATION MIX)
-![NESO (3)_page-0001](https://github.com/user-attachments/assets/5eccd993-8d11-4d53-9741-8fa3c726dbc9)
+
+![NESO (5)_page-0001](https://github.com/user-attachments/assets/6292ae02-39b0-40e8-8e48-dee847f32406)
+![NESO (5)_page-0002](https://github.com/user-attachments/assets/8e340db8-f1a8-4ef0-867a-3c0530ae830a)
+
+
 An analytical dashboard developed in Microsoft Power BI to explore Great Britain’s electricity generation mix over the period 2020–2025 using half-hourly system data. The objective of the study was to construct an interactive visual framework capable of examining structural fuel composition, renewable penetration levels, carbon intensity behaviour, and system stress indicators at a national scale. The dashboard was designed not merely as a visualisation exercise, but as a structured analytical tool aligned with large-scale energy system objectives such as decarbonisation monitoring, operational flexibility assessment, and generation planning insight.
 
 The design sought to determine how the GB electricity mix is structured during the study period, whether renewable generation has materially displaced fossil fuels, how fuel composition influences carbon intensity, and when the system experiences elevated stress or emissions.
@@ -21,18 +25,17 @@ The dashboard begins with a high-level KPI panel presenting total generation, av
 # Structural Fuel Mix Analysis 
 The structural behaviour of the generation mix was examined through stacked area charts representing both absolute megawatt contribution and percentage share composition.
 # Fossil versus Renewable Transition
-![NESO (4)_page-0004](https://github.com/user-attachments/assets/2fc9d2c9-c13c-45f1-b43c-6338a829eba0)
+![NESO (5)_page-0004](https://github.com/user-attachments/assets/ccce4f54-5471-4be6-a3f7-96cd1115c861)
 
 A dual-line visual comparing fossil share and renewable share was constructed to assess structural crossover behaviour. This comparison highlights the relative balance between dispatchable fossil generation and variable renewable output. This comparison directly supports evaluation of national transition goals by illustrating how renewable penetration is reshaping the structural composition of the generation mix.
 # Carbon Intensity Behaviour and Correlation
 Carbon intensity trends were analysed using temporal line charts and correlation-based scatter plots. The trend visual reveals seasonal variation, with winter periods displaying elevated carbon intensity consistent with increased reliance on fossil-based generation during high-demand conditions.
 
-![NESO (3)_page-0002](https://github.com/user-attachments/assets/e41e0645-30fd-4a58-8cd9-885b28585b90)
-
 # Net Demand and System Stress Indicators
 Net demand was calculated as total generation minus wind and solar output, representing the demand that must be met by dispatchable sources such as gas, nuclear and imports. This derived metric provides insight into system stress and flexibility requirements.
 # Zero Carbon versus Low Carbon Decomposition
 A waterfall visual was developed to distinguish between zero-carbon generation and low-carbon generation. Zero-carbon output, comprising wind, solar, hydro and nuclear, was separated from biomass to illustrate the structural composition of low-carbon supply. This decomposition clarifies that low-carbon generation is not entirely zero-emission, and it quantifies the specific contribution of biomass within the overall low-carbon category.
+
 # Temporal Behaviour Heatmap
 A matrix-based heatmap was constructed to visualise hourly demand behaviour across months. Conditional formatting was applied to reveal seasonal and intraday patterns.
 
