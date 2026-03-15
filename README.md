@@ -4,8 +4,8 @@
 ![NESO (5)_page-0001](https://github.com/user-attachments/assets/6292ae02-39b0-40e8-8e48-dee847f32406)
 ![NESO (5)_page-0002](https://github.com/user-attachments/assets/8e340db8-f1a8-4ef0-867a-3c0530ae830a)
 
+**An analytical dashboard developed in Microsoft Power BI to explore Great Britain’s electricity generation mix (2020–2025) using half-hourly system data. The project utilized Databricks for the high-performance ingestion and structuring of massive datasets, which were subsequently managed within a MySQL environment to ensure relational integrity and seamless dashboard connectivity. The objective was to construct an interactive framework for examining fuel composition, renewable penetration, and carbon intensity. Designed as a structured analytical tool, it aligns with large-scale energy objectives—including decarbonisation monitoring and operational flexibility—to provide actionable insights for national generation planning.**
 
-An analytical dashboard developed in Microsoft Power BI to explore Great Britain’s electricity generation mix over the period 2020–2025 using half-hourly system data. The objective of the study was to construct an interactive visual framework capable of examining structural fuel composition, renewable penetration levels, carbon intensity behaviour, and system stress indicators at a national scale. The dashboard was designed not merely as a visualisation exercise, but as a structured analytical tool aligned with large-scale energy system objectives such as decarbonisation monitoring, operational flexibility assessment, and generation planning insight.
 
 The design sought to determine how the GB electricity mix is structured during the study period, whether renewable generation has materially displaced fossil fuels, how fuel composition influences carbon intensity, and when the system experiences elevated stress or emissions.
 
